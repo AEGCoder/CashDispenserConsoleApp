@@ -1,0 +1,15 @@
+/Users/aeg/bankamatik/bin/Debug/net7.0/bankamatik
+/Users/aeg/bankamatik/bin/Debug/net7.0/bankamatik.deps.json
+/Users/aeg/bankamatik/bin/Debug/net7.0/bankamatik.runtimeconfig.json
+/Users/aeg/bankamatik/bin/Debug/net7.0/bankamatik.dll
+/Users/aeg/bankamatik/bin/Debug/net7.0/bankamatik.pdb
+/Users/aeg/bankamatik/obj/Debug/net7.0/bankamatik.csproj.AssemblyReference.cache
+/Users/aeg/bankamatik/obj/Debug/net7.0/bankamatik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/bankamatik/obj/Debug/net7.0/bankamatik.AssemblyInfoInputs.cache
+/Users/aeg/bankamatik/obj/Debug/net7.0/bankamatik.AssemblyInfo.cs
+/Users/aeg/bankamatik/obj/Debug/net7.0/bankamatik.csproj.CoreCompileInputs.cache
+/Users/aeg/bankamatik/obj/Debug/net7.0/bankamatik.dll
+/Users/aeg/bankamatik/obj/Debug/net7.0/refint/bankamatik.dll
+/Users/aeg/bankamatik/obj/Debug/net7.0/bankamatik.pdb
+/Users/aeg/bankamatik/obj/Debug/net7.0/bankamatik.genruntimeconfig.cache
+/Users/aeg/bankamatik/obj/Debug/net7.0/ref/bankamatik.dll
